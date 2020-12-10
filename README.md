@@ -1,4 +1,4 @@
-# Additionally, this create-react-app includes the following dependencies:
+## Additionally, this create-react-app includes the following dependencies:
 
     "dependencies": {
     "gh-pages": "^3.1.0",
@@ -13,13 +13,20 @@
     "prettier": "^2.2.1"
     }
 
-# .eslintcache has been added to .gitignore.
+## .eslintcache
 
-# The file named .env inclides SASS_PATH fro comfortable work with SASS.
+.eslintcache has been added to .gitignore.
 
-# You should fill your GiHub nickname and the name of your project in the package.json field "homepage": "https://malyshkoserhii.github.io/my-app".
+## .env
 
-# Getting Started with Create React App
+The file named .env inclides SASS_PATH for comfortable work with SASS.
+
+## Homepage
+
+You should fill your GiHub nickname and the name of your project in the
+package.json field "homepage": "https://malyshkoserhii.github.io/my-app".
+
+## Getting Started with Create React App
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
